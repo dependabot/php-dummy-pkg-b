@@ -4,6 +4,6 @@
     "type": "library",
     "license": "MIT",
     "require": {
-      "dependabot/dummy-pkg-a": "<2.0.0"
+      "dependabot/dummy-pkg-a": "~2.0"
     }
 }
