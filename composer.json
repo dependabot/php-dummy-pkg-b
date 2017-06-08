@@ -1,0 +1,9 @@
+{
+    "name": "dependabot/dummy-pkg-b",
+    "description": "A dummy package for testing Dependabot",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+      "dependabot/dummy-pkg-a": "<2.0.0"
+    }
+}
